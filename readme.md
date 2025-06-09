@@ -62,7 +62,7 @@ When the user clicks the `Let's Go` button on the landing page, they will see mu
 ### Key Components
 
 - A landing page that lets the user know the purpose of **TravelEZ**
-- A timetable of select bus routes of bus companies in the Philippines
+- A timetable of select bus routes in the Philippines
 
 ### Technology
 
