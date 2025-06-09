@@ -4,26 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/GabbyCam98/">
+    <img src="./assets/img/travelez-green.png" alt="Nyebe" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">TravelEz - Know Where to Go, When to Go!</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  TravelEZ is a user-friendly website that provides a comprehensive timetable of bus routes across the Philippines. Whether you're planning a trip from Manila to North Luzon or other key destinations, TravelEZ helps you explore available routes offered by various bus companies.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/AD-CI4-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=GabbyCam98/AD-Task-1)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+
+[![wakatime](https://wakatime.com/badge/user/d4319e56-afb6-4209-8b83-a830d88d13cd/project/1cc78dd6-aa8c-4f8a-b378-b32ec894683d.svg)](https://wakatime.com/badge/user/d4319e56-afb6-4209-8b83-a830d88d13cd/project/1cc78dd6-aa8c-4f8a-b378-b32ec894683d)
 
 ---
 
@@ -58,22 +55,19 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
+**TravelEZ** is a simple website that displays a timetable of bus trips in the Philippines. It utilizes fundamental PHP concepts such as `array handling`, `variable declaration`, `looping`, and `conditional statements`.
 
-Description of the project in details.
+When the user clicks the `Let's Go` button on the landing page, they will see multiple timetables from various bus companies serving popular routes across the Philippines. The timetable also indicates the status of each trip—whether it is `scheduled to depart`, `boarding`, or has already `departed`.
 
 ### Key Components
 
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- A landing page that lets the user know the purpose of **TravelEZ**
+- A timetable of select bus routes of bus companies in the Philippines
 
 ### Technology
 
-<!-- TODO: List of Technology Used -->
+
+
 #### Language
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -155,11 +149,7 @@ AD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
-
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| strtotime()  | To get the time and display the trip status                                   | https://www.w3schools.com/php/func_date_strtotime.asp |
+
