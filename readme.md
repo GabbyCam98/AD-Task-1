@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GabbyCam98/">
-    <img src="./assets/img/travelez-green.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/travelez-green.png" alt="Nyebe" width="150">
   </a>
   <h3 align="center">TravelEz - Know Where to Go, When to Go!</h3>
 </div>
