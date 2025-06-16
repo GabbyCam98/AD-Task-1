@@ -1,0 +1,19 @@
+{
+    "name": "gabbycam98/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ramir\\PhpPages\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabbycam98",
+            "email": "gabcamino1298@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:8000 router.php"
+    },
+    "require": {}
+}
