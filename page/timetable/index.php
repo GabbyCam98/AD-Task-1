@@ -4,7 +4,7 @@ require_once BASE_PATH . '/init.php';
 ?>
 <?php
 
-require '../../staticData/busRoutes.staticData.php';
+require_once STATICDATAS_PATH . '/busRoutes.staticData.php';
 
 date_default_timezone_set("Asia/Manila"); // Set your timezone
 $currentTime = strtotime(date("H:i"));
@@ -23,7 +23,8 @@ $busLogos = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>TravelEZ - Live Timetable</title>
+    <link rel="icon" href="../../assets/img/live-icon.png">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -45,6 +46,8 @@ $busLogos = [
     ?>
 
     <!-- Timetable section -->
+
+    <div></div>
     <?php
     require_once LAYOUTS_PATH . '/busTimetable.layout.php';
     ?>
