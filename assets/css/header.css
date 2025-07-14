@@ -22,12 +22,16 @@ header{
 
 .right-section{
     padding-right: 50px;
+    column-gap: 20px;
+    color: white;
 }
 
 .left-section,
 .middle-section,
 .right-section {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .left-section,
