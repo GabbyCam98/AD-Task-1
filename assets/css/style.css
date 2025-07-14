@@ -147,7 +147,7 @@ main {
 .boarding {
   color: orange;
   font-weight: bold;
-  animation: blink 1s infinite;
+  animation: blink 0.7s infinite;
 }
 
 button {
